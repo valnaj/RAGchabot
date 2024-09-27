@@ -1,4 +1,4 @@
-# Retrieval-Augmented Generation with Summarization Agent using WVC documents[UC2]
+# Retrieval-Augmented Generation with Summarization Agent using text based documents
 
 ## Table of Contents
 - [Overview](#overview)
