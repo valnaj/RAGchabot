@@ -1,0 +1,11 @@
+langchain==0.2.6
+langchain-openai==0.1.8
+langchain-core==0.2.10
+langchain-community==0.2.5
+langchain-text-splitters==0.2.1
+numpy==1.26.4
+PyPDF2==3.0.1
+pytz==2024.1
+streamlit==1.36.0
+python-docx==1.1.2
+openai==1.35.2
